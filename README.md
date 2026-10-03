@@ -1,62 +1,35 @@
-<div align="center">
+# Biuret Academy
 
-# 🎓 Biuret Academy
+> **Future project concept — experimental repository.** This is a plan and a place for exploratory code, not a finished, audited, or deployment-ready product.
 
-### Learn clearly. Practice safely. Keep progressing.
+An Arabic-first cybersecurity learning platform concept.
 
-An **Arabic-first cybersecurity learning platform** that brings structured study and practical learning into one focused desktop experience.
+## The idea
 
-<br>
+A clear path from cybersecurity fundamentals into specializations, with courses, safe labs, challenges, exams, and evidence of achievement.
 
-![Education](https://img.shields.io/badge/Focus-Cybersecurity%20Education-C9FF39?style=for-the-badge)
-![Language](https://img.shields.io/badge/Language-Arabic%20%26%20English-2563EB?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Portfolio%20Preview-353B45?style=for-the-badge)
+## Planned capabilities
 
-<br>
+- Beginner roadmap and later specialization paths
+- Structured courses and practical labs
+- Challenges, assessments, and progress tracking
+- Arabic and English learning experience
 
-[![Website](https://img.shields.io/badge/Case_Study-biuret.dev-2563EB?style=for-the-badge)](https://biuret.dev/sites/biuret-academy.html)
+## Current status
 
-</div>
+The complete product is planned for the future. Existing files, if present, are drafts, prototypes, or experiments and may change or fail. Features listed above describe intended direction; they are not a claim that those features work today.
 
----
+A smaller [web pilot](https://academy.biuret.dev/) is already live. The full platform described here is a future goal; this desktop repository does not represent the complete released product.
 
-## 📚 About Biuret Academy
+## Next steps
 
-**Biuret Academy** explores how cybersecurity education can feel more approachable for Arabic-speaking learners. The project connects explanations, safe practice, and progress in a consistent learning environment.
+1. Refine requirements and the intended user workflow.
+2. Build and test a small prototype against that plan.
+3. Document limitations, security boundaries, and validation results before considering a release.
 
-It is part of my ongoing work in technical education and desktop product design.
+## Links
 
----
+- [Concept page on biuret.dev](https://biuret.dev/sites/biuret-academy.html)
+- [Biuret portfolio](https://biuret.dev/)
 
-## ✨ Selected Features
-
-- 🧭 **Structured learning** — breaks broad subjects into clearer stages.
-- 🧪 **Safe practice** — connects concepts with controlled exercises.
-- 📈 **Progress awareness** — helps learners understand what they have completed and what comes next.
-- 🌐 **Arabic-first interface** — gives right-to-left learning a deliberate place in the experience.
-
----
-
-## 🧠 What This Project Demonstrates
-
-Building Biuret Academy has helped me practice curriculum organization, Arabic interface design, educational UX, and responsible cybersecurity teaching.
-
-Course material, assessment content, source code, and implementation details are not included in this public portfolio record.
-
----
-
-## 🚧 Project Status
-
-Biuret Academy is presented as a **portfolio preview**. This repository documents the idea and selected capabilities; it does not distribute the application.
-
----
-
-## 👨‍💻 Developer
-
-**[Adam Hamdan (Biuret)](https://github.com/Biuret7)** · Cybersecurity and software development
-
-Explore the [full portfolio](https://biuret.dev/) or contact me at [adam7.workspace@gmail.com](mailto:adam7.workspace@gmail.com).
-
----
-
-<p align="center">🛡️ <i>Learning made clearer through careful design and safe practice.</i></p>
+Created by [Adam Hamdan (Biuret)](https://github.com/Biuret7).
